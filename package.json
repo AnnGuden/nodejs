@@ -1,0 +1,17 @@
+{
+  "name": "Nodejs course",
+  "version": "0.0.1",
+  "description": "Project developed during Node.js course.",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+
+  }
+}
