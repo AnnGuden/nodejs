@@ -1,0 +1,19 @@
+{
+  "name": "Nodejs course",
+  "version": "0.0.1",
+  "description": "Project developed during Node.js course.",
+  "main": "task3.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon task3.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "node-fetch": "^2.7.0",
+    "url-encode-decode": "^1.0.0"
+  }
+}
