@@ -1,5 +1,4 @@
 const request = require('supertest');
-//const app = require('your-express-app'); // Replace with your Express app instance
 
 const API_URL = 'https://date.nager.at/api/v3';
 
